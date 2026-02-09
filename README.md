@@ -7,7 +7,7 @@ I am a passionate web developer focused on building clean, user-friendly, and fu
 
 ### 🛠 My Tech Stack
 - **Frontend:** HTML5, CSS3, JavaScript, React
-- **Backend:** php, Node.js, Express
+- **Backend:** php, Node.js
 - **Tools:** Git, GitHub, VS Code
 
 ---
@@ -31,5 +31,5 @@ I am a passionate web developer focused on building clean, user-friendly, and fu
 ### 🏆 Top Projects
 | Project | Live Demo | Tech Stack |
 | :--- | :--- | :--- |
-| **Project One** | [View Site](#) | React, Firebase |
+| **Project One** | [View Site](#) | Js, php|
 | **Project Two** | [View Site](#) | HTML, Sass |
