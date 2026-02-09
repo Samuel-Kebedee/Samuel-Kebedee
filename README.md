@@ -4,6 +4,11 @@
 ### 👨‍💻 Web Developer
 I am a passionate web developer focused on building clean, user-friendly, and functional websites.
 
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a> •
+  <a href="https://yourportfolio.com" target="_blank">Portfolio</a> •
+  <a href="mailto:your@email.com">Email</a>
+</p>
 ---
 
 ### 🛠 My Tech Stack
