@@ -1,29 +1,22 @@
-# 🚀 Hi, I'm [Your Name] | Web Developer
+# Hi, I'm Samuel Kebede | Web Developer
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=[YourUsername]&label=Profile%20views&color=0e75b6&style=flat" alt="YourUsername" />
-</p>
+### 👨‍💻 Web Developer
+I am a passionate web developer focused on building clean, user-friendly, and functional websites.
+
+### 🛠 My Tech Stack
+- **Frontend:** HTML5, CSS3, JavaScript, React
+- **Backend:** php, Node.js, Express
+- **Tools:** Git, GitHub, VS Code
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **Advanced React & TypeScript**
-- 💬 Ask me about **HTML, CSS, and UI/UX Design**
+- 🔭 I’m currently working on **Academic Portal for Ethiopian Undergraduate School**
+- 🌱 I’m currently learning **Advanced CSS Grid, advanced React & TypeScript**
+
 - ⚡ Fun fact: **I love solving complex logic puzzles.**
 
 ---
 
-### 🛠 My Tech Stack
 
-**Frontend** ![php](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-**Backend & Tools** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
 
 ### 📊 GitHub Analytics
 <p align="center">
