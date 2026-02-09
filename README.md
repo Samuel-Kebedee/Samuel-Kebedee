@@ -3,26 +3,20 @@
 ### 👨‍💻 Web Developer
 I am a passionate web developer focused on building clean, user-friendly, and functional websites.
 
+---
+
 ### 🛠 My Tech Stack
 - **Frontend:** HTML5, CSS3, JavaScript, React
 - **Backend:** php, Node.js, Express
 - **Tools:** Git, GitHub, VS Code
+
+---
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **Academic Portal for Ethiopian Undergraduate School**
 - 🌱 I’m currently learning **Advanced CSS Grid, advanced React & TypeScript**
 
 - ⚡ Fun fact: **I love solving complex logic puzzles.**
-
----
-
-
-
-### 📊 GitHub Analytics
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&langs_count=7&theme=radical"/>
-</p>
 
 ---
 
