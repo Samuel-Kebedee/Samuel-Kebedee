@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Samuel Kebede</h1>
-<h3 align="center">Web Developer | Full Stack</h3>
+<h1 align="left">Hi 👋, I'm Samuel Kebede</h1>
+<h3 align="left">Web Developer | Full Stack</h3>
 
 ### 👨‍💻 Web Developer
 I am a passionate web developer focused on building clean, user-friendly, and functional websites.
