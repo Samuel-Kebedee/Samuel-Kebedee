@@ -78,7 +78,7 @@ A web-based academic portal designed for Ethiopian undergraduate institutions.
 ## 🧠 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Kebedee&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
