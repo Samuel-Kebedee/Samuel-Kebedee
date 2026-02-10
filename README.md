@@ -11,7 +11,7 @@
 I am a passionate **Full Stack Web Developer** with experience building **responsive, user-friendly, and scalable web applications**.  
 
 <p align="center">
-  <a href="https://github.com/https://samuel-kebedee.github.io/samuel-portfolio/">
+  <a href="https://github.com/samuel-kebedee">
     <img src="https://img.shields.io/github/followers/USERNAME?label=Follow&style=social" />
   </a>
 </p>
