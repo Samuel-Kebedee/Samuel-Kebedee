@@ -91,20 +91,18 @@ A web-based academic portal designed for Ethiopian undergraduate institutions.
 
 <p align="left">
   <a href="https://linkedin.com/in/[YourLinkedIn]" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> 
+  - LinkedIn: https://linkedin.com/in/yourprofile  
+  
   <a href="mailto:your@email.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" width="40" />
-  </a>
+    <img align="center" src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" width="40" /> </a>
+  - 📧Email: your@email.com  
+
   <a href="https://yourportfolio.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/Portfolio-0077B5.svg?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio" height="30" width="40" />
   </a>
+  - Portfolio: https://yourportfolio.com  
 </p>
-
-
-- 📧Email: your@email.com  
-- 💼LinkedIn: https://linkedin.com/in/yourprofile  
-- 🌐Portfolio: https://yourportfolio.com  
 
 ---
 
