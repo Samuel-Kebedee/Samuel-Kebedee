@@ -22,18 +22,7 @@ I am a passionate **Full Stack Web Developer** with experience building **respon
 
 ---
 
-### 🛠 My Tech Stack
-- **Frontend:** HTML5, CSS3, JavaScript, React
-- **Backend:** php, Node.js
-- **Tools:** Git, GitHub, VS Code
-
-### Database
-- MySQL
-
----
-
-
-## 🛠️ Tech Stack
+## 🛠️ My Tech Stack
 
 ### 🌐 Frontend
 <p>
@@ -59,6 +48,37 @@ I am a passionate **Full Stack Web Developer** with experience building **respon
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
+</p>
+
+---
+
+## 📌 Featured Project
+
+### 🎓 Academic Portal System
+A web-based academic portal designed for Ethiopian undergraduate institutions.
+
+- 👥 Role-based access (Admin, Registrar, Department Head, Student, Instructor)
+- 📊 Student Records, Course management, Gradeing System...
+- 🔐 Secure authentication 
+
+**Tech Used:** HTML, CSS, BootStrap, JavaScript, PHP, MySQL  
+**Status:** In Progress 🚧
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+## 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
