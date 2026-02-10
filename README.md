@@ -83,14 +83,14 @@ A web-based academic portal designed for Ethiopian undergraduate institutions.
 
 ### 📫 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/[YourLinkedIn]" target="blank">
+  <a href="[https://linkedin.com/in/[YourLinkedIn]](https://www.linkedin.com/in/samuel-kebede-9261893b0/)" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>   https://linkedin.com/in/yourprofile  </br>
   
-  <a href="mailto:your@email.com" target="blank">
+  <a href="Samikebe2281@gmail.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="60" width="60" /> </a>
       your@email.com  </br>
 
-  <a href="https://yourportfolio.com" target="blank">
+  <a href="[https://yourportfolio.com](https://samuel-kebedee.github.io/samuel-portfolio/)" target="blank">
     <img align="center" src="https://img.shields.io/badge/Portfolio-0077B5.svg?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio" height="60" width="60" />
   </a>     https://yourportfolio.com  
 </p>
