@@ -82,7 +82,7 @@ A web-based academic portal designed for Ethiopian undergraduate institutions.
   
   <a href="mailto:your@email.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="60" width="60" /> </a>
-      https://your@email.com  </br>
+      your@email.com  </br>
 
   <a href="https://yourportfolio.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/Portfolio-0077B5.svg?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio" height="60" width="60" />
