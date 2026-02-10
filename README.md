@@ -4,6 +4,11 @@
 ### 👨‍💻 Web Developer
 I am a passionate **Web Developer** with experience building responsive, user-friendly, and scalable web applications.  
 
+<p align="center">
+  <a href="https://github.com/USERNAME">
+    <img src="https://img.shields.io/github/followers/USERNAME?label=Follow&style=social" />
+  </a>
+</p>
 ---
 
 ### 🛠 My Tech Stack
