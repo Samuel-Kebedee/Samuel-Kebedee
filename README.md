@@ -32,6 +32,13 @@ I am a passionate **Web Developer** with experience building responsive, user-fr
 <p align="left">
 <a href="https://linkedin.com/in/[YourLinkedIn]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 
+<p align="center">
+  <a href="mailto:your@email.com">📧 Email</a> •
+  <a href="https://linkedin.com/in/yourprofile">💼 LinkedIn</a> •
+  <a href="https://yourportfolio.com">🌐 Portfolio</a>
+</p>
+
+
 - Email: your@email.com  
 - LinkedIn: https://linkedin.com/in/yourprofile  
 - Portfolio: https://yourportfolio.com  
