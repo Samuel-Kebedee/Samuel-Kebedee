@@ -2,14 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Samuel%20Kebede&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">Web Developer | Full Stack</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Samuel-Kebedee&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 ---
-
 
 <h1 align="left">Hi 👋, I'm Samuel Kebede</h1>
 <h3 align="left">Web Developer | Full Stack</h3>
@@ -29,7 +22,7 @@ I am a passionate **Full Stack Web Developer** with experience building **respon
 - 🔭 I’m currently working on **Academic Portal for Ethiopian Undergraduate School**
 - 🌱 I’m currently learning **Advanced CSS Grid, advanced React & TypeScript**
 - 🎯 Focused on writing **clean, maintainable, and optimized code**
-- ⚡ I enjoy turning real-world problems into clean, efficient digital solutions.
+- 🚀 I enjoy turning real-world problems into clean, efficient digital solutions.
 
 - ⚡ Fun fact: **I love solving complex logic puzzles.**
 
@@ -37,7 +30,7 @@ I am a passionate **Full Stack Web Developer** with experience building **respon
 
 ## 🛠️ My Tech Stack
 
-### 🌐 Frontend
+### 🌍 Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
@@ -66,13 +59,13 @@ I am a passionate **Full Stack Web Developer** with experience building **respon
 
 ---
 
-## 📌 Featured Project
+## 🚀 Featured Project
 
 ### 🎓 Academic Portal System
 A web-based academic portal designed for Ethiopian undergraduate institutions.
 
 - 👥 Role-based access (Admin, Registrar, Department Head, Student, Instructor)
-- 📊 Student Records, Course management, Gradeing System...
+- 🔍 Student Records, Course management, Gradeing System...
 - 🔐 Secure authentication 
 
 **Tech Used:** HTML, CSS, BootStrap, JavaScript, PHP, MySQL  
